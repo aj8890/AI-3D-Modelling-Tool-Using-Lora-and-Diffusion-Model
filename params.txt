@@ -1,0 +1,3 @@
+<lora:room:1>Modern modular kitchen interior with sleek matte-finish cabinets, built-in appliances, under-cabinet lighting, glossy white countertops, a central island with bar stools, wooden flooring, overhead storage, and a clean, minimalist design – realistic 3D render, high detail, photorealistic, warm lighting."
+Negative prompt: "blurry, distorted, low quality, cartoonish, messy, cluttered, old-fashioned, dark lighting, unrealistic proportions"
+Steps: 20, Sampler: DPM++ 2M, Schedule type: Automatic, CFG scale: 7, Seed: 3680276985, Size: 512x512, Model hash: 8463ca6405, Model: revAnimated_v2Rebirth, Denoising strength: 0.7, Hires upscale: 2, Hires upscaler: Latent, Lora hashes: "room: a78d1596ed1c", Version: v1.10.1
